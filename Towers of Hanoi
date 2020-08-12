@@ -22,4 +22,4 @@ int main(){
 	return 0;
  }
 
-// It take 2^n -1 moves to complete the task.
+// It take (2^n -1) moves to complete the task.
