@@ -21,3 +21,5 @@ int main(){
 	towersOfHanoi(n, 'A', 'C', 'B');
 	return 0;
  }
+
+// It take 2^n -1 moves to complete the task.
